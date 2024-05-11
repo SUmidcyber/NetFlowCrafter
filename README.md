@@ -1,0 +1,2 @@
+# NetFlowCrafter
+ This code is designed to listen and analyze network traffic and monitor specific network protocols using the Go programming language. Users can listen live to network traffic and monitor various network protocols (TCP, UDP, ICMP, DNS, etc.) by selecting a specific network interface. They can also record eavesdropping traffic and analyze it later. This code can be used in a variety of applications such as network security, network performance monitoring, and debugging.
